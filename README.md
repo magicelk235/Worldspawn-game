@@ -1,2 +1,1 @@
-# Worldspawn-game
-Worldspawn game is the original idea of Worldspawn, This repo is a game created by Worldspawn engine
+Worldspawn Magicelk235™ Copyright 2025© Is a Project That Started At 8th April 2024, Worldspawn's Main Idea Is a Sandbox World-open With a Server Client Online System. Worldspawn Is a Open Source Project Developed In Python Using Pygame And Socket(They Are The Main Packages Ofcourse There Are More)
